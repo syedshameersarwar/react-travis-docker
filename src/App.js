@@ -16,7 +16,7 @@ function App() {
           target='_blank'
           rel='noopener noreferrer'
         >
-          Travis <3
+          Travis
         </a>
       </header>
     </div>
