@@ -16,7 +16,7 @@ function App() {
           target='_blank'
           rel='noopener noreferrer'
         >
-          Travis
+          Deploying with features
         </a>
       </header>
     </div>
